@@ -9,6 +9,6 @@ const preview: Preview = {
       },
     },
   },
-};
+}; // const preview
 
 export default preview;
