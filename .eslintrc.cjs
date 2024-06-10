@@ -4,11 +4,7 @@ module.exports = {
     browser: true,
     es2023: true,
   },
-  extends: [
-    'eslint:recommended',
-    'plugin:@typescript-eslint/recommended',
-    'plugin:eslint-plugin-react/recommended',
-  ],
+  extends: ['eslint:recommended', 'plugin:@typescript-eslint/recommended', 'plugin:eslint-plugin-react/recommended', 'plugin:storybook/recommended'],
   ignorePatters: [
     'dist/',
   ],
