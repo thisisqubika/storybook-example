@@ -16,4 +16,4 @@ export function sxStyles({
       ...(Array.isArray(sx) ? sx : [sx]),
     ], // root
   };
-}; // sxStyles
+} // sxStyles

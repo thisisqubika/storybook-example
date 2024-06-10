@@ -19,4 +19,4 @@ export function sxStyles(): Record<string, SxProps<Theme>> {
     }, // root
 
   };
-}; // sxStyles
+} // sxStyles

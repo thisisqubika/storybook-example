@@ -8,4 +8,4 @@ export function sxStyles(): Record<string, SxProps<Theme>> {
       gridTemplateColumns: 'repeat(auto-fill, minmax(30rem, 1fr))',
     }, // root
   };
-}; // sxStyles
+} // sxStyles

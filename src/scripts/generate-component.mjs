@@ -30,7 +30,7 @@ export function sxStyles({
       ...(Array.isArray(sx) ? sx : [sx]),
     ], // root
   };
-}; // sxStyles
+} // sxStyles
 `;
   const filePath = path.resolve(componentFolderPath, `./${name}/${name}.styles.tsx`);
   await fs.writeFile(filePath, code, { encoding: 'utf8' });

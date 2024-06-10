@@ -5,4 +5,4 @@ export function sxStyles() {
       flexGrow: 1,
     }, // logo
   };
-}; // sxStyles
+} // sxStyles

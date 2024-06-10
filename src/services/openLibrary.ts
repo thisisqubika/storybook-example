@@ -21,7 +21,8 @@ export class OpenLibraryApi extends Api {
   } // constructor
 
   bookCoverImage(id: number | string) {
-    return new URL(`https://covers.openlibrary.org/b/id/${encodeURIComponent(id)}-M.jpg`)
+    return new URL(`https://covers.openlibrary.org/b/id/${
+      encodeURIComponent(id)}-M.jpg`);
   } // bookCoverImage
 
   async searchBooks(params: OpenLibraryQueryParams) {

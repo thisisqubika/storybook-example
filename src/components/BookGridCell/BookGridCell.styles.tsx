@@ -20,4 +20,4 @@ export function sxStyles(): Record<string, SxProps<Theme>> {
       justifyContent: 'center',
     } // column2
   };
-}; // sxStyles
+} // sxStyles

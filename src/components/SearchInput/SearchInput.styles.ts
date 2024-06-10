@@ -21,4 +21,4 @@ export function sxStyles(): Record<string, SxProps<Theme>> {
       width: '100%',
     }, // textField
   };
-}; // sxStyles
+} // sxStyles

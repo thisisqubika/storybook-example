@@ -5,14 +5,14 @@
   "version": "0.1.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "build-storybook": "storybook build",
     "build": "tsc && vite build",
+    "dev": "vite",
     "lint": "eslint . --max-warnings 0",
     "preview": "vite preview",
-    "test": "vitest --run",
-    "test-update": "vitest --run -u",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build"
+    "test-update": "vitest --run -u",
+    "test": "vitest --run"
   },
   "dependencies": {
     "@emotion/react": "^11.11.4",
