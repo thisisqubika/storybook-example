@@ -19,8 +19,9 @@ export default defineConfig({
       reportsDirectory: './dist/tests/coverage',
       exclude: [
         '.eslintrc.cjs',
+        'playwright.config.ts',
         '.storybook/',
-        'script/',
+        'scripts/',
         'src/**/*.stories.tsx',
         'test/'
       ],
