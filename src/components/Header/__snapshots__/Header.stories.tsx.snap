@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/Header Children smoke-test 1`] = `
+<div class="MuiBox-root css-i9gxme">
+  <header class="MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionStatic css-eoy4xr-MuiPaper-root-MuiAppBar-root"
+          data-testid="Header"
+  >
+    <div class="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-hyum1k-MuiToolbar-root">
+      <h3 class="MuiTypography-root MuiTypography-h3 css-e6ke5q-MuiTypography-root"
+          data-testid="Logo"
+      >
+        Books
+      </h3>
+      <h6 class="MuiTypography-root MuiTypography-h6 css-rb8u0f-MuiTypography-root">
+        Sample header text
+      </h6>
+    </div>
+  </header>
+</div>
+`;
+
+exports[`components/Header Empty smoke-test 1`] = `
+<div class="MuiBox-root css-i9gxme">
+  <header class="MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionStatic css-eoy4xr-MuiPaper-root-MuiAppBar-root"
+          data-testid="Header"
+  >
+    <div class="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-hyum1k-MuiToolbar-root">
+      <h3 class="MuiTypography-root MuiTypography-h3 css-e6ke5q-MuiTypography-root"
+          data-testid="Logo"
+      >
+        Books
+      </h3>
+    </div>
+  </header>
+</div>
+`;

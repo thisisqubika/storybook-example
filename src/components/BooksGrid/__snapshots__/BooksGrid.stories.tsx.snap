@@ -1,0 +1,2296 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/BooksGrid Base smoke-test 1`] = `
+<div class="MuiGrid-root css-afi7lk-MuiGrid-root"
+     data-testid="BooksGrid"
+>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        React Web Development Library
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Authors not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Publications data not available.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Mastering Full Stack React Web Development
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Tomasz Dyl, Kamil Przeorski.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing - ebooks Account at Nov 06, 2017.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/8511939-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Elevating React Web Development with Gatsby
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Samuel Larsen-Disney.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing, Limited at 2022.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        ReactJS Blueprints
+      </h4>
+      <h6 class="MuiTypography-root MuiTypography-subtitle1 css-10jdpkp-MuiTypography-root"
+          data-testid="BookGridCell.subtitle"
+      >
+        Explore modern React web development with this practical, project based guide
+      </h6>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Sven A. Robbestad.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing at Jul 29, 2016.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/8512598-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Learn React with TypeScript 3
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Carl Rippon.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing at Nov 29, 2018.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        React Application Architecture for Production
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Alan Alickovic.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing, Limited; Packt Publishing at 2023.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/13565208-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Learning React
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Alex Banks, Eve Porcello.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by O'Reilly Media; O’Reilly Media, Inc. at Jun 30, 2020, 2018-02-09.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/10282783-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        React and React Native
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Adam Boduch.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing - ebooks Account; Packt Publishing, Limited; Packt Publishing at 2020, 2022, Mar 08, 2017.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/8512119-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Learning React
+      </h4>
+      <h6 class="MuiTypography-root MuiTypography-subtitle1 css-10jdpkp-MuiTypography-root"
+          data-testid="BookGridCell.subtitle"
+      >
+        Functional Web Development with React and Redux
+      </h6>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Alex Banks, Eve Porcello.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by O'Reilly Media at May 18, 2017.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/8509332-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        React
+      </h4>
+      <h6 class="MuiTypography-root MuiTypography-subtitle1 css-10jdpkp-MuiTypography-root"
+          data-testid="BookGridCell.subtitle"
+      >
+        up &amp; running
+      </h6>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Stoyan Stefanov.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by O'Reilly Media, Incorporated; O'Reilly Media at 2021, 2016.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/13919031-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Desarrollo Web con React
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Pello Xabier Altadill Izura.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by ANAYA MULTIMEDIA; Anaya Multimedia at Sep 26, 2019.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/13954251-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Desarrollo Web con React
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Pello Xabier Altadill Izura.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by ANAYA MULTIMEDIA; Anaya Multimedia at Sep 26, 2019.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/13954252-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        React Quickly
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Azat Mardan.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Manning Publications Co. LLC at 2017.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        React práctico
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Pello Xabier Altadill Izura.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by ANAYA MULTIMEDIA at Apr 20, 2023.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/13954263-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Learning React
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Kirupa Chinnathambi.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Addison-Wesley; Addison-Wesley Professional; Pearson Education, Limited at 2018, Nov 25, 2016, 2016.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/8512385-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Fluent React
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Tejas Kumar.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by O'Reilly Media, Incorporated at 2024, 2023.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        React Quickly
+      </h4>
+      <h6 class="MuiTypography-root MuiTypography-subtitle1 css-10jdpkp-MuiTypography-root"
+          data-testid="BookGridCell.subtitle"
+      >
+        Painless web apps with React, JSX, Redux, and GraphQL
+      </h6>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Azat Mardan.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Manning Publications at Sep 28, 2017.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/8509001-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Learning Web Development with React and Bootstrap
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Harmeet Singh, Mehul Bhatt.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing - ebooks Account at Dec 20, 2016.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/8512371-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Progressive Web Apps with React
+      </h4>
+      <h6 class="MuiTypography-root MuiTypography-subtitle1 css-10jdpkp-MuiTypography-root"
+          data-testid="BookGridCell.subtitle"
+      >
+        Create lightning fast web apps with native power using React and Firebase
+      </h6>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Scott Domes.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing at Oct 24, 2017.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/8509914-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Isomorphic Web Applications
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Elyse Gordon.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Manning Publications Co. LLC at 2018.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Isomorphic Web Applications
+      </h4>
+      <h6 class="MuiTypography-root MuiTypography-subtitle1 css-10jdpkp-MuiTypography-root"
+          data-testid="BookGridCell.subtitle"
+      >
+        Universal Development with React
+      </h6>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Elyse Kolker Gordon.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Manning Publications at Jul 13, 2018.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/8508171-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        React and  React Native
+      </h4>
+      <h6 class="MuiTypography-root MuiTypography-subtitle1 css-10jdpkp-MuiTypography-root"
+          data-testid="BookGridCell.subtitle"
+      >
+        Complete guide to web and native mobile development with React, 2nd Edition
+      </h6>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Adam Boduch.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing at Sep 28, 2018.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/8508280-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        ReactJS by Example
+      </h4>
+      <h6 class="MuiTypography-root MuiTypography-subtitle1 css-10jdpkp-MuiTypography-root"
+          data-testid="BookGridCell.subtitle"
+      >
+        Building Modern Web Applications with React
+      </h6>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Vipul A M, Prathamesh Sonpatki.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing at Apr 21, 2016.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/8513006-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Full-Stack React Projects
+      </h4>
+      <h6 class="MuiTypography-root MuiTypography-subtitle1 css-10jdpkp-MuiTypography-root"
+          data-testid="BookGridCell.subtitle"
+      >
+        Modern web development using React 16, Node, Express, and MongoDB
+      </h6>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Shama Hoque.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing at May 29, 2018.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/8508414-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Learning React Js
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Claudia Alves.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Independently Published at 2020.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Full Stack Quarkus and React
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Marc Nuri San Felix, Alex Soto Bueno.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing; Packt Publishing, Limited at 2022.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/13844730-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        React Native Explained
+      </h4>
+      <h6 class="MuiTypography-root MuiTypography-subtitle1 css-10jdpkp-MuiTypography-root"
+          data-testid="BookGridCell.subtitle"
+      >
+        a Complete Guide to Modern Web and Mobile Development with React. js
+      </h6>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Robin Wieruch.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Independently Published at 2021.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Mastering React Test-Driven Development
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Daniel Irvine.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing, Limited at 2019, 2023.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Web Development Crash Course
+      </h4>
+      <h6 class="MuiTypography-root MuiTypography-subtitle1 css-10jdpkp-MuiTypography-root"
+          data-testid="BookGridCell.subtitle"
+      >
+        React JS Application Development
+      </h6>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Neo D. Truman.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Independently Published at 2022.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        React Cookbook
+      </h4>
+      <h6 class="MuiTypography-root MuiTypography-subtitle1 css-10jdpkp-MuiTypography-root"
+          data-testid="BookGridCell.subtitle"
+      >
+        Create dynamic web apps with React using Redux, Webpack, Node.js, and GraphQL
+      </h6>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Carlos Santana Roldan.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing at Jul 22, 2016.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/8510850-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        React.js Essentials
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Artemij Fedosejev.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing; Packt Publishing, Limited at Aug 27, 2015, 2015.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Road to React with Firebase
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Robin Wieruch.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Independently Published at 2019.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Getting Started with React VR
+      </h4>
+      <h6 class="MuiTypography-root MuiTypography-subtitle1 css-10jdpkp-MuiTypography-root"
+          data-testid="BookGridCell.subtitle"
+      >
+        Build immersive Virtual Reality apps for the web with React
+      </h6>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: John Gwinner.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing at Nov 30, 2017.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/8509390-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        the React Workshop
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Brandon Richey, Ryan Yu, Endre Vegh, et al..
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing, Limited at 2020.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        React Native Cookbook
+      </h4>
+      <h6 class="MuiTypography-root MuiTypography-subtitle1 css-10jdpkp-MuiTypography-root"
+          data-testid="BookGridCell.subtitle"
+      >
+        Bringing the Web to Native Platforms
+      </h6>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Jonathan Lebensold.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by O'Reilly Media at Mar 05, 2018.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/8509336-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Learning React
+      </h4>
+      <h6 class="MuiTypography-root MuiTypography-subtitle1 css-10jdpkp-MuiTypography-root"
+          data-testid="BookGridCell.subtitle"
+      >
+        A Hands-On Guide to Building Web Applications Using React and Redux (2nd Edition)
+      </h6>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Kirupa Chinnathambi.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Addison-Wesley Professional at May 25, 2018.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/8508932-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        React Cookbook
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: David Griffiths, Dawn Griffiths.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by O'Reilly Media, Incorporated at 2021.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Learn React with TypeScript
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Carl Rippon.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing at Mar 03, 2023.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/13915027-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Full-Stack Web Development with GraphQl and React
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Sebastian Grebe.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing; Packt Publishing, Limited at 2021.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/13709243-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Full-Stack React, TypeScript, and Node
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: David Choi.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing, Limited at 2020.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/13175856-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Full-Stack React Projects
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Shama Hoque.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing, Limited at 2020.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/13164623-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Full-Stack Flask and React
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Olatunde Adedeji.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing, Limited at 2023.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Isomorphic JavaScript Web Development
+      </h4>
+      <h6 class="MuiTypography-root MuiTypography-subtitle1 css-10jdpkp-MuiTypography-root"
+          data-testid="BookGridCell.subtitle"
+      >
+        Universal JavaScript with React and Node
+      </h6>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Tomas Alabes, Konstantin Tarkus.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing - ebooks Account at Oct 11, 2017.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/8509448-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Serverless Web Applications with React and Firebase
+      </h4>
+      <h6 class="MuiTypography-root MuiTypography-subtitle1 css-10jdpkp-MuiTypography-root"
+          data-testid="BookGridCell.subtitle"
+      >
+        Develop real-time applications for web and mobile platforms
+      </h6>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Harmeet Singh, Mayur Tanna.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing at Apr 10, 2018.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/8509022-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Full Stack Django and React
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Kolawole Mangabo.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing, Limited at 2023.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Full Stack FastAPI, React, and MongoDB
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Marko Aleksendric.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing, Limited at 2023.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Developing React Apps for Beginners
+      </h4>
+      <h6 class="MuiTypography-root MuiTypography-subtitle1 css-10jdpkp-MuiTypography-root"
+          data-testid="BookGridCell.subtitle"
+      >
+        The Complete Guide to Using React to Create Scalable, Gorgeous, and Adaptive Web Apps
+      </h6>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Noah George.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Independently Published at 2022.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        ASP.NET Core 3 and React
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Carl Rippon.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing at Dec 27, 2019.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Pro MERN Stack
+      </h4>
+      <h6 class="MuiTypography-root MuiTypography-subtitle1 css-10jdpkp-MuiTypography-root"
+          data-testid="BookGridCell.subtitle"
+      >
+        Full Stack Web App Development with Mongo, Express, React, and Node
+      </h6>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Vasan Subramanian.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Apress at Mar 05, 2017.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/8512138-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        MERN Quick Start Guide
+      </h4>
+      <h6 class="MuiTypography-root MuiTypography-subtitle1 css-10jdpkp-MuiTypography-root"
+          data-testid="BookGridCell.subtitle"
+      >
+        Build web applications with MongoDB, Express.js, React, and Node
+      </h6>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Eddy Wilson Iriarte Koroliova.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing at May 31, 2018.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/8508792-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Pro MERN Stack
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Vasan Subramanian.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Apress at May 13, 2019.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/10252828-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        ASP.NET Core 5 and React
+      </h4>
+      <h6 class="MuiTypography-root MuiTypography-subtitle1 css-10jdpkp-MuiTypography-root"
+          data-testid="BookGridCell.subtitle"
+      >
+        Second Edition
+      </h6>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Carl Rippon.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing - ebooks Account at Feb 09, 2021.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/10542747-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Mastering React
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Adam Horton, Ryan Vice.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing, Limited at 2016.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Webs of Resistence in a Newly Privatized Polish Firm
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Jennifer Lynn Roney.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Taylor &amp; Francis Group; Routledge at 2014, 2015, 2021.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Full Stack Development with Spring Boot 3 and React
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Juha Hinkula.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing, Limited at 2023.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        React Components
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Christopher Pitt.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing, Limited at 2016.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Real-World Next.js
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Michele Riva.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing at Feb 28, 2022.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/13166260-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        React17 design patterns and best practices
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Carlos Santana Roldan.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Psckt Publishing at 2021.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/12081193-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        React 16 Essentials
+      </h4>
+      <h6 class="MuiTypography-root MuiTypography-subtitle1 css-10jdpkp-MuiTypography-root"
+          data-testid="BookGridCell.subtitle"
+      >
+        Second Edition
+      </h6>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Artemij Fedosejev, Adam Boduch.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing - ebooks Account at Nov 30, 2017.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/8509504-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        React. js Bare Necessities I
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Uros Randelovic.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Independently Published at 2020.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Jetzt Werde Ich Web-Entwickler!
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Jörg Krause.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: ger.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Independently Published at 2018.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Web Programming with HTML, CSS, Bootstrap, JavaScript, React. JS, PHP, and MySQL Fourth Edition
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Larry Sanchez.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Indy Pub at 2023.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Web Development Crash Course
+      </h4>
+      <h6 class="MuiTypography-root MuiTypography-subtitle1 css-10jdpkp-MuiTypography-root"
+          data-testid="BookGridCell.subtitle"
+      >
+        Next JS, the Full Stack React JS Framework
+      </h6>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Neo D. Truman.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Independently Published at 2022.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Enterprise React Development with UmiJS
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Douglas Alves Venancio.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing, Limited at 2022.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        React 18 Design Patterns and Best Practices
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Carlos Santana Roldan.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing, Limited at 2023.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Guide to Use . NET 5, React 17 and TypeScript 4 to Develop Full-Stack Web
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Elliott Abbott.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Independently Published at 2022.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        React Design Patterns and Best Practices
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Carlos Santana Roldan.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing at Mar 30, 2019.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/10653332-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Quick Start Full Stack Web Development
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Erik Ferragut.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Independently Published at 2020.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Learn TypeScript 3 by Building Web Applications
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Sébastien Dubois, Alexis Georges.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing, Limited at 2019.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Getting Started with React
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Doel Sengupta, Manu Singhal, Danillo Corvalan.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing, Limited at 2016.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Cloud Native Go
+      </h4>
+      <h6 class="MuiTypography-root MuiTypography-subtitle1 css-10jdpkp-MuiTypography-root"
+          data-testid="BookGridCell.subtitle"
+      >
+        Building Web Applications and Microservices for the Cloud with Go and React (Developer's Library)
+      </h6>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Kevin Hoffman, Dan Nemeth.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Addison-Wesley Professional at Jan 02, 2017.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/8512314-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Cloud Native Go
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Kevin Hoffman, Dan Nemeth.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Pearson Education, Limited at 2016.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        MERN Projects for Beginners
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Nabendu Biswas.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Apress; Apress L. P. at 2021.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/13926964-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        React Native Cookbook
+      </h4>
+      <h6 class="MuiTypography-root MuiTypography-subtitle1 css-10jdpkp-MuiTypography-root"
+          data-testid="BookGridCell.subtitle"
+      >
+        Step-by-step recipes for solving common React Native development problems, 2nd Edition
+      </h6>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Dan Ward.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing at Jan 31, 2019.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/8497894-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Designing Applications with Spring Boot 2. 2 and React JS
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Dinesh Rajput.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by BPB Publications at 2019.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Webs of Resistence in a Newly Privatized Polish Firm
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Jennifer Roney.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Routledge at February 4, 2000.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/1547244-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        React 16 Tooling
+      </h4>
+      <h6 class="MuiTypography-root MuiTypography-subtitle1 css-10jdpkp-MuiTypography-root"
+          data-testid="BookGridCell.subtitle"
+      >
+        Master essential cutting-edge tools, such as create-react-app, Jest, and Flow
+      </h6>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Adam Boduch.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing at Apr 30, 2018.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/8508893-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Hands-On Full-Stack Web Development with ASP. NET Core
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Tamir Dresher, Amir Zuker, Shay Friedman.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing; Packt Publishing, Limited at 2018.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/14210909-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Beginning React
+      </h4>
+      <h6 class="MuiTypography-root MuiTypography-subtitle1 css-10jdpkp-MuiTypography-root"
+          data-testid="BookGridCell.subtitle"
+      >
+        Simplify your frontend development workflow and enhance the user experience of your applications with React
+      </h6>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Andrea Chiarelli.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing at Jul 25, 2018.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/8508488-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Hands-On Full-Stack Web Development with GraphQL and React
+      </h4>
+      <h6 class="MuiTypography-root MuiTypography-subtitle1 css-10jdpkp-MuiTypography-root"
+          data-testid="BookGridCell.subtitle"
+      >
+        Build scalable full-stack applications while learning to solve complex problems with GraphQL
+      </h6>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Sebastian Grebe.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages not available.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing at Jan 31, 2019.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/8507725-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Hands-On Full Stack Development with Go
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Mina Andrawos.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing; Packt Publishing, Limited at 2019.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/13291345-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Hands-On Full Stack Development with Spring Boot 2 and React
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Juha Hinkula.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing, Limited at 2019.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/13210543-M.jpg"
+      >
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Jasmine JavaScript Testing Second Edition
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Paulo Ragonha.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Packt Publishing, Limited at 2015.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <span class="MuiTypography-root MuiTypography-caption css-19d2nhv-MuiTypography-root">
+        Image not avaiable
+      </span>
+    </div>
+  </div>
+  <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+       data-testid="BookGridCell"
+  >
+    <div class="MuiBox-root css-3a3hw0">
+      <h4 class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+          data-testid="BookGridCell.title"
+      >
+        Learning Patterns
+      </h4>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        By: Lydia Hallie, Addy Osmani.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Languages: eng.
+      </p>
+      <p class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root">
+        Published by Patterns.dev at 2021-12-20.
+      </p>
+    </div>
+    <div class="MuiBox-root css-dtw560">
+      <img alt="Books cover"
+           data-testid="BookGridCell.img"
+           src="https://covers.openlibrary.org/b/id/12458319-M.jpg"
+      >
+    </div>
+  </div>
+</div>
+`;

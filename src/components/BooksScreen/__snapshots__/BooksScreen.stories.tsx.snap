@@ -1,0 +1,84 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/BooksScreen Base smoke-test 1`] = `
+<div class="MuiContainer-root MuiContainer-maxWidthLg css-1oqqzyl-MuiContainer-root"
+     data-testid="PageLayout"
+>
+  <div class="MuiBox-root css-1o0wkzj">
+    <div class="MuiBox-root css-i9gxme">
+      <header class="MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionStatic css-eoy4xr-MuiPaper-root-MuiAppBar-root"
+              data-testid="Header"
+      >
+        <div class="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-hyum1k-MuiToolbar-root">
+          <h3 class="MuiTypography-root MuiTypography-h3 css-e6ke5q-MuiTypography-root"
+              data-testid="Logo"
+          >
+            Books
+          </h3>
+          <div class="css-r7zuen">
+            <div class="MuiFormControl-root MuiTextField-root css-136h9lv-MuiFormControl-root-MuiTextField-root"
+                 data-testid="SearchInput"
+            >
+              <div class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-colorPrimary MuiInputBase-formControl MuiInputBase-adornedEnd css-1h4b0e9-MuiInputBase-root-MuiInput-root">
+                <input aria-invalid="false"
+                       id=":r0:"
+                       placeholder="Search..."
+                       type="text"
+                       data-testid="SearchInput.input"
+                       class="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedEnd css-1x51dt5-MuiInputBase-input-MuiInput-input"
+                       value="React web"
+                >
+                <div class="MuiInputAdornment-root MuiInputAdornment-positionEnd MuiInputAdornment-standard MuiInputAdornment-sizeMedium css-1laqsz7-MuiInputAdornment-root">
+                  <button class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1m1cnyu-MuiButtonBase-root-MuiIconButton-root"
+                          tabindex="0"
+                          type="button"
+                          data-testid="SearchInput.IconButton"
+                  >
+                    <svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-6cvc6r-MuiSvgIcon-root"
+                         focusable="false"
+                         aria-hidden="true"
+                         viewbox="0 0 24 24"
+                         data-testid="SearchIcon"
+                    >
+                      <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14">
+                      </path>
+                    </svg>
+                    <span class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root">
+                    </span>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+    </div>
+    <div class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 css-n9dby4-MuiPaper-root">
+      <div class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded css-1qbral5-MuiPaper-root"
+           data-testid="Loading"
+      >
+        <h5 class="MuiTypography-root MuiTypography-h5 css-1oepjcl-MuiTypography-root">
+          Loading, please wait...
+        </h5>
+        <span class="MuiCircularProgress-root MuiCircularProgress-indeterminate MuiCircularProgress-colorPrimary css-18li798-MuiCircularProgress-root"
+              role="progressbar"
+              style="width: 5rem; height: 5rem;"
+        >
+          <svg class="MuiCircularProgress-svg css-1idz92c-MuiCircularProgress-svg"
+               viewbox="22 22 44 44"
+          >
+            <circle class="MuiCircularProgress-circle MuiCircularProgress-circleIndeterminate css-176wh8e-MuiCircularProgress-circle"
+                    cx="44"
+                    cy="44"
+                    r="20.2"
+                    fill="none"
+                    stroke-width="3.6"
+            >
+            </circle>
+          </svg>
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;

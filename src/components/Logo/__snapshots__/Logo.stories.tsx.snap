@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/Logo Base smoke-test 1`] = `
+<h3 class="MuiTypography-root MuiTypography-h3 css-13bgm19-MuiTypography-root"
+    data-testid="Logo"
+>
+  Books
+</h3>
+`;
