@@ -1,0 +1,48 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`BookGridCell > stories match snapshot 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-dp0tfs-MuiPaper-root-MuiCard-root"
+    data-testid="BookGridCell"
+  >
+    <div
+      class="MuiBox-root css-3a3hw0"
+    >
+      <h4
+        class="MuiTypography-root MuiTypography-h4 css-j95l75-MuiTypography-root"
+        data-testid="BookGridCell.title"
+      >
+        React Application Architecture for Production
+      </h4>
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root"
+      >
+        By: Alan Alickovic
+        .
+      </p>
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root"
+      >
+        Languages: eng
+        .
+      </p>
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-e773oc-MuiTypography-root"
+      >
+        Published by Packt Publishing, Limited; Packt Publishing at 2023
+        .
+      </p>
+    </div>
+    <div
+      class="MuiBox-root css-dtw560"
+    >
+      <img
+        alt="Books cover"
+        data-testid="BookGridCell.img"
+        src="https://covers.openlibrary.org/b/id/13565208-M.jpg"
+      />
+    </div>
+  </div>
+</div>
+`;

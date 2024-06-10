@@ -1,0 +1,61 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`LoadingIndicator > stories match snapshot 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded css-1qbral5-MuiPaper-root"
+    data-testid="Loading"
+  >
+    <h5
+      class="MuiTypography-root MuiTypography-h5 css-1oepjcl-MuiTypography-root"
+    >
+      Loading, please wait...
+    </h5>
+    <span
+      class="MuiCircularProgress-root MuiCircularProgress-indeterminate MuiCircularProgress-colorPrimary css-18li798-MuiCircularProgress-root"
+      role="progressbar"
+      style="width: 5rem; height: 5rem;"
+    >
+      <svg
+        class="MuiCircularProgress-svg css-1idz92c-MuiCircularProgress-svg"
+        viewBox="22 22 44 44"
+      >
+        <circle
+          class="MuiCircularProgress-circle MuiCircularProgress-circleIndeterminate css-176wh8e-MuiCircularProgress-circle"
+          cx="44"
+          cy="44"
+          fill="none"
+          r="20.2"
+          stroke-width="3.6"
+        />
+      </svg>
+    </span>
+  </div>
+</div>
+`;
+
+exports[`LoadingIndicator > stories match snapshot 2`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-outlined MuiPaper-rounded css-1qbral5-MuiPaper-root"
+    data-testid="Loading"
+  >
+    <h5
+      class="MuiTypography-root MuiTypography-h5 css-ojno0f-MuiTypography-root"
+    >
+      Errare humanum est!
+    </h5>
+    <svg
+      aria-hidden="true"
+      class="MuiSvgIcon-root MuiSvgIcon-colorError MuiSvgIcon-fontSizeMedium css-1y7yv10-MuiSvgIcon-root"
+      data-testid="ErrorIcon"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2m1 15h-2v-2h2zm0-4h-2V7h2z"
+      />
+    </svg>
+  </div>
+</div>
+`;
